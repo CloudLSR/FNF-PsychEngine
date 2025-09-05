@@ -1,127 +1,90 @@
-![PsychionalEngineLogo](docs/img/PsychEngineLogoTweak.png)
+# Friday Night Funkin
 
-Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
+This is the repository for Friday Night Funkin Modding Plus, a mod for FNF to add more features for modders and players alike.
 
-## Installation:
-
-Refer to [the Build Instructions](/docs/BUILDING.md)
-
-## Customization:
-
-If you wish to disable things like *Lua Scripts* or *Video Cutscenes*, you can refer to the `Project.xml` file.
-
-Inside `Project.xml`, you will find several variables to customize Psych Engine to your liking.
-
-To start you off, disabling *Video Cutscenes* should be simple, simply delete the line `"VIDEOS_ALLOWED"` or comment it out by wrapping the line in XML-like comments, like this: `<!-- YOUR_LINE_HERE -->`
-
-Same goes for *Lua Scripts*, comment out or delete the line with `LUA_ALLOWED`, this and other customization options are all available within the `Project.xml` file.
-
-## Softcoding (.lua/.hx)
-For this you can head over to [the wiki](https://shadowmario.github.io/psychengine.lua)
-
-There you can learn how to use the 212 PlayState funcions in your mod!
-
-## Credits:
-* Shadow Mario - Main Programmer and Head of Psych Engine.
-* Riveren - Main Artist/Animator of Psych Engine.
-
-### Special Thanks
-* bbpanzu - Ex-Team Member (Programmer).
-* crowplexus - HScript Iris, Input System v3, and Other PRs.
-* Kamizeta - Creator of Pessy, Psych Engine's mascot.
-* MaxNeton - Loading Screen Easter Egg Artist/Animator.
-* Keoiki - Note Splash Animations and Latin Alphabet.
-* SqirraRNG - Crash Handler and Base code for Chart Editor's Waveform.
-* EliteMasterEric - Runtime Shaders support and Other PRs.
-* MAJigsaw77 - .MP4 Video Loader Library (hxvlc).
-* iFlicky - Composer of Psync, Tea Time and some sound effects.
-* KadeDev - Fixed some issues on Chart Editor and Other PRs.
-* superpowers04 - LUA JIT Fork.
-* CheemsAndFriends - Creator of FlxAnimate.
-* Ezhalt - Pessy's Easter Egg Jingle.
-* MaliciousBunny - Video for the Final Update.
-
-***
-
-# Features
-
-## Attractive animated dialogue boxes:
-
-![Animated Dialogue Boxes](docs/img/dialogue.gif)
-
-## New Main Menu
-* A brand new menu that makes your experience even better!
-![Main Menu](docs/img/MainMenu.png)
-
-## Mod Support
-* Probably one of the main points of this engine, you can code in .lua files outside of the source code, making your own weeks without even messing with the source!
-* Comes with a Mod Organizing/Disabling Menu.
-![Mod Support](docs/img/ModsMenu.png)
+Any mods made with this mod must have express permission from the creator of songs included. 
+(for example, if you include the Whitty Mod, you should have express permission from Nate Anim8, KadeDev, and SockClip.
+I at least would like to see the main author and a majority of secondary offers get express permission)
+If an author gives express disapproval, and the mod is up, you should take your mod down. I own the code to this mod so I can (and will)
+take down mods that don't follow this rule.
 
 
-## Atleast one change to every week:
-### Week 1:
-  * New Dad Left sing sprite
-  * Unused stage lights are now used
-  * Dad Battle has a spotlight effect for the breakdown
-### Week 2:
-  * Both BF and Skid & Pump does "Hey!" animations
-  * Thunders does a quick light flash and zooms the camera in slightly
-  * Added a quick transition/cutscene to Monster
-### Week 3:
-  * BF does "Hey!" during Philly Nice
-  * Blammed has a cool new colors flash during that sick part of the song
-### Week 4:
-  * Better hair physics for Mom/Boyfriend (Maybe even slightly better than Week 7's :eyes:)
-  * Henchmen die during all songs. Yeah :(
-### Week 5:
-  * Bottom Boppers and GF does "Hey!" animations during Cocoa and Eggnog
-  * On Winter Horrorland, GF bops her head slower in some parts of the song.
-### Week 6:
-  * On Thorns, the HUD is hidden during the cutscene
-  * Also there's the Background girls being spooky during the "Hey!" parts of the Instrumental
+- Get the cutting edge build: https://dev.azure.com/benharless820/FNF%20Modding%20Plus/_build
+- Play the Original Game: https://github.com/ninjamuffin99/Funkin
+- Need Help? FNF Modding Plus Discord: https://discord.gg/xeC748FR
+- Trello Page (todo list): https://trello.com/b/cFjJJIjF/fnf-modding-plus
+## Credits for the Original Game
 
-## Cool new Chart Editor changes and countless bug fixes
-![Chart Editor](docs/img/chart.png)
-* You can now chart "Event" notes, which are bookmarks that trigger specific actions that usually were hardcoded on the vanilla version of the game.
-* Your song's BPM can now have decimal values
-* You can manually adjust a Note's strum time if you're really going for milisecond precision
-* You can change a note's type on the Editor, it comes with five example types:
-  * Alt Animation: Forces an alt animation to play, useful for songs like Ugh/Stress
-  * Hey: Forces a "Hey" animation instead of the base Sing animation, if Boyfriend hits this note, Girlfriend will do a "Hey!" too.
-  * Hurt Notes: If Boyfriend hits this note, he plays a miss animation and loses some health.
-  * GF Sing: Rather than the character hitting the note and singing, Girlfriend sings instead.
-  * No Animation: Character just hits the note, no animation plays.
+- [ninjamuffin99](https://twitter.com/ninja_muffin99) - Programmer
+- [PhantomArcade3K](https://twitter.com/phantomarcade3k) and [Evilsk8r](https://twitter.com/evilsk8r) - Art
+- [KawaiSprite](https://twitter.com/kawaisprite) - Musician
+## Modding+ Credits
 
-## Multiple editors to assist you in making your own Mod
-![Master Editor Menu](docs/img/editors.png)
-* Working both for Source code modding and Downloaded builds!
+- [BulbyVR](https://github.com/TheDrawingCoder-Gamer) - Owner/Programmer
+- [DJ Popsicle](https://gamebanana.com/members/1780306) - Co-Owner/Additional Programmer
+- [Matheus L/Mlops](https://gamebanana.com/members/1767306), [AndreDoodles](https://gamebanana.com/members/1764840), [riko](https://github.com/rikokitsu), Raf, ElBartSinsoJaJa, and [plum](https://www.youtube.com/channel/UCXbiI4MJD9Y3FpjW61lG8ZQ) - Artist & Animation
+- [ThePinkPhantom/JuliettePink](https://gamebanana.com/members/1892442) - Portrait Artist
+- [Alex Director](https://gamebanana.com/members/1701629) - Icon Fixer
+- [Drippy](https://github.com/TrafficKid) - GitHub Wikipedia
+- [GwebDev](https://github.com/GrowtopiaFli) - Edited WebM code
+- [Axy](https://github.com/timeless13GH) - Poggers help
+## Build instructions
 
-## Story mode menu rework:
-![Story Mode Menu](docs/img/storymode.png)
-* Added a different BG to every song (less Tutorial)
-* All menu characters are now in individual spritesheets, makes modding it easier.
+THESE INSTRUCTIONS ARE FOR COMPILING THE GAME'S SOURCE CODE!!!
 
-## Credits menu
-![Credits Menu](docs/img/credits.png)
-* You can add a head icon, name, description and a Redirect link for when the player presses Enter while the item is currently selected.
+IF YOU WANT TO JUST DOWNLOAD AND INSTALL AND PLAY THE GAME NORMALLY, GO TO GAMEBANANA TO DOWNLOAD THE GAME FOR PC!!
 
-## Awards/Achievements
-* The engine comes with 16 example achievements that you can mess with and learn how it works (Check Achievements.hx and search for "checkForAchievement" on PlayState.hx)
-![Achievements](docs/img/Achievements.png)
+https://gamebanana.com/gamefiles/14264
 
-## Options menu:
-* You can change Note colors, Delay and Combo Offset, Controls and Preferences there.
- * On Preferences you can toggle Downscroll, Middlescroll, Anti-Aliasing, Framerate, Low Quality, Note Splashes, Flashing Lights, etc.
-![Options](docs/img/Options.png)
+IF YOU WANT TO COMPILE THE GAME YOURSELF, OR PLAY ON MAC OR LINUX, CONTINUE READING!!!
 
-## Other gameplay features:
-* When the enemy hits a note, their strum note also glows.
-* Lag doesn't impact the camera movement and player icon scaling anymore.
-* Some stuff based on Week 7's changes has been put in (Background colors on Freeplay, Note splashes)
-* You can reset your Score on Freeplay/Story Mode by pressing Reset button.
-* You can listen to a song or adjust Scroll Speed/Damage taken/etc. on Freeplay by pressing Space.
-* You can enable "Combo Stacking" in Gameplay Options. This causes the combo sprites to just be one sprite with an animation rather than sprites spawning each note hit.
+IF YOU MAKE A MOD AND DISTRIBUTE A MODIFIED / RECOMIPLED VERSION, YOU MUST OPEN SOURCE YOUR MOD AS WELL
+
+### Installing shit
+
+First you need to install Haxe and HaxeFlixel. I'm too lazy to write and keep updated with that setup (which is pretty simple).
+The link to that is on the [HaxeFlixel website](https://haxeflixel.com/documentation/getting-started/)
+
+Other installations you'd need is the additional libraries, a fully updated list will be in `Project.xml` in the project root, but here are the one's I'm using as of writing.
+
+```
+hscript
+flixel-ui
+tjson
+json2object
+uniontypes
+hxcpp-debug-server
+```
+
+So for each of those type `haxelib install [library]` so shit like `haxelib install hscript`
+
+You'll also need to install hscript-ex. Do this with
+
+```
+haxelib git hscript-ex https://github.com/ianharrigan/hscript-ex
+```
 
 
-#### Psych Engine by ShadowMario, Friday Night Funkin' by ninjamuffin99
+### Compiling game
+
+
+To run it from your desktop (Windows, Mac, Linux) it can be a bit more involved. For Linux, you only need to open a terminal in the project directory and run 'lime test linux -debug' and then run the executible file in export/release/linux/bin. For Windows, you need to install Visual Studio Community 2019. While installing VSC, don't click on any of the options to install workloads. Instead, go to the individual components tab and choose the following:
+* MSVC v142 - VS 2019 C++ x64/x86 build tools
+* Windows SDK (10.0.17763.0)
+* C++ Profiling tools
+* C++ CMake tools for windows
+* C++ ATL for v142 build tools (x86 & x64)
+* C++ MFC for v142 build tools (x86 & x64)
+* C++/CLI support for v142 build tools (14.21)
+* C++ Modules for v142 build tools (x64/x86)
+* Clang Compiler for Windows
+* Windows 10 SDK (10.0.17134.0)
+* Windows 10 SDK (10.0.16299.0)
+* MSVC v141 - VS 2017 C++ x64/x86 build tools
+* MSVC v140 - VS 2015 C++ build tools (v14.00)
+
+This will install about 22GB of crap, but once that is done you can open up a command line in the project's directory and run `lime test windows -debug`. Once that command finishes (it takes forever even on a higher end PC), you can run FNF from the .exe file under export\release\windows\bin
+As for Mac, 'lime test mac -debug' should work, if not the internet surely has a guide on how to compile Haxe stuff for Mac.
+### Additional guides
+
+- [Command line basics](https://ninjamuffin99.newgrounds.com/news/post/1090480)
