@@ -2,7 +2,7 @@
 
 This is the repository for Friday Night Funkin Modding Plus, a mod for FNF to add more features for modders and players alike.
 
-https://www.icegif.com/wp-content/uploads/2024/10/friday-night-funkin-icegif-7.gif
+![FNF GIF](https://www.icegif.com/wp-content/uploads/2024/10/friday-night-funkin-icegif-7.gif)
 
 Any mods made with this mod must have express permission from the creator of songs included. 
 (for example, if you include the Whitty Mod, you should have express permission from Nate Anim8, KadeDev, and SockClip.
