@@ -15,13 +15,13 @@ This is the repository for Friday Night Funkin Modding Plus, a mod for FNF to ad
 
 <p align="center">
   <a href="https://youtu.be/VIDEO1" target="_blank">
-    <img src="https://img.youtube.com/vi/VIDEO1/0.jpg" width="250">
+    <img src="[https://img.youtube.com/vi/VIDEO1/0.jpg](https://www.icegif.com/wp-content/uploads/2024/10/friday-night-funkin-icegif-7.gif)" width="250">
   </a>
   <a href="https://youtu.be/VIDEO2" target="_blank">
-    <img src="https://img.youtube.com/vi/VIDEO2/0.jpg" width="250">
+    <img src="[https://img.youtube.com/vi/VIDEO2/0.jpg](https://www.icegif.com/wp-content/uploads/2024/10/friday-night-funkin-icegif-7.gif)" width="250">
   </a>
   <a href="https://youtu.be/VIDEO3" target="_blank">
-    <img src="https://img.youtube.com/vi/VIDEO3/0.jpg" width="250">
+    <img src="[https://img.youtube.com/vi/VIDEO3/0.jpg](https://www.icegif.com/wp-content/uploads/2024/10/friday-night-funkin-icegif-7.gif)" width="250">
   </a>
 </p>
 
