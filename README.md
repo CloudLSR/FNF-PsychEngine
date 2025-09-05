@@ -6,6 +6,13 @@ This is the repository for Friday Night Funkin Modding Plus, a mod for FNF to ad
   <img src="https://www.icegif.com/wp-content/uploads/2024/10/friday-night-funkin-icegif-7.gif" alt="FNF GIF">
 </p>
 
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=XXXXX" target="_blank">
+    <img src="https://www.icegif.com/wp-content/uploads/2024/10/friday-night-funkin-icegif-7.gif" alt="FNF GIF">
+  </a>
+</p>
+
 Any mods made with this mod must have express permission from the creator of songs included. 
 (for example, if you include the Whitty Mod, you should have express permission from Nate Anim8, KadeDev, and SockClip.
 I at least would like to see the main author and a majority of secondary offers get express permission)
