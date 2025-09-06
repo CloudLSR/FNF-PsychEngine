@@ -2,6 +2,12 @@
 
 This is the repository for Friday Night Funkin Modding Plus, a mod for FNF to add more features for modders and players alike.
 
+This is the repository for the Random Build Attempt, a Friday Night Funkin’ Corruption mod made in the Modding Plus Engine.
+
+Originally started back in 2021, the plan was to recreate all the songs that existed as teasers for FNF Corruption. But, as time went on, more and more stuff got added—like songs from the Fanmade and Extras sections—so it ended up being way less “pure corruption” and way more “whatever felt cool at the time.”
+
+The project eventually got abandoned (thanks to motivation issues + the rise of newer and easier engines). But hey, I’m uploading this as a kinda “polished” version of what the release should’ve been back then. (don’t expect too much tho, lol).
+
 <p align="center">
   <img src="https://i.makeagif.com/media/5-12-2021/yd0uoT.gif" alt="FNF GIF22">
 </p>
