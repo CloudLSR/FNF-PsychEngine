@@ -2,7 +2,7 @@
 
 This is the repository for the Random Build Attempt, a Friday Night Funkin’ Corruption mod made in the Modding Plus Engine.
 
-Originally started in 2021 but eventually got abandoned (motivation + newer engines, you know). I’m uploading this as a kinda “polished” version of what the release should’ve been back then. (keep your expectations low, trust me).
+Originally started in 2021 but eventually got abandoned (motivation + newer engines, you know). I’m uploading this as a kinda “polished” version of what the release should’ve been back then.
 
 <p align="center">
   <img src="https://i.makeagif.com/media/5-12-2021/yd0uoT.gif" alt="FNF GIF22">
