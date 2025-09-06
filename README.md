@@ -3,7 +3,7 @@
 This is the repository for Friday Night Funkin Modding Plus, a mod for FNF to add more features for modders and players alike.
 
 <p align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/2024/10/friday-night-funkin-icegif-7.gif" alt="FNF GIF22">
+  <img src="https://i.makeagif.com/media/5-12-2021/yd0uoT.gif" alt="FNF GIF22">
 </p>
 
 
@@ -47,10 +47,6 @@ This is the repository for Friday Night Funkin Modding Plus, a mod for FNF to ad
   <a href="https://youtu.be/VIDEO3" target="_blank">
     <img src="https://www.icegif.com/wp-content/uploads/2024/10/friday-night-funkin-icegif-7.gif" width="250" alt="FNF GIF 3">
   </a>
-</p>
-
-<p align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/2024/10/friday-night-funkin-icegif-7.gif" width="250" alt="FNF GIF5">
 </p>
 
 Any mods made with this mod must have express permission from the creator of songs included. 
