@@ -24,6 +24,7 @@ This is the repository for Friday Night Funkin Modding Plus, a mod for FNF to ad
     <img src="https://www.icegif.com/wp-content/uploads/2024/10/friday-night-funkin-icegif-7.gif" width="250" alt="FNF GIF 3">
   </a>
 </p>
+
 <p align="center">
   <a href="https://youtu.be/VIDEO1" target="_blank">
     <img src="https://www.icegif.com/wp-content/uploads/2024/10/friday-night-funkin-icegif-7.gif" width="250" alt="FNF GIF 1">
@@ -35,6 +36,7 @@ This is the repository for Friday Night Funkin Modding Plus, a mod for FNF to ad
     <img src="https://www.icegif.com/wp-content/uploads/2024/10/friday-night-funkin-icegif-7.gif" width="250" alt="FNF GIF 3">
   </a>
 </p>
+
 <p align="center">
   <a href="https://youtu.be/VIDEO1" target="_blank">
     <img src="https://www.icegif.com/wp-content/uploads/2024/10/friday-night-funkin-icegif-7.gif" width="250" alt="FNF GIF 1">
