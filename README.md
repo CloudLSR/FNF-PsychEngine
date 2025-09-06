@@ -1,6 +1,4 @@
-# Friday Night Funkin
-
-This is the repository for Friday Night Funkin Modding Plus, a mod for FNF to add more features for modders and players alike.
+# Random Build Attempt
 
 This is the repository for the Random Build Attempt, a Friday Night Funkin’ Corruption mod made in the Modding Plus Engine.
 
